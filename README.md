@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center">👋 Hi there! I'm Kat.😄
+<h3 align="center">A soon to be college graduate.</h3>
 
-<!--
-**Rebelkat18/Rebelkat18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on semester projects.
+- 🌱 I’m currently learning how use the OpenAI API to make an assistant.
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was in a robotics club for 7 years.
+- 🔗 You can find me here: [Linkedin](www.linkedin.com/in/kecuster)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebelkat18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
