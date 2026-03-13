@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Kat.😄
+<h1 align="center">👋 Hi there! I'm Kat.😄</h1>
 
 - 🔗 You can find me here: [Linkedin](www.linkedin.com/in/kecuster)
 
